@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comment",
+				"comment"
+			],
+			[
+				"error",
+				"error_explanation"
+			],
+			[
+				"e",
+				"end	end (ERB)"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"rout",
+				"routes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/haltingpoint/projects/todo/app/models/task.rb",
+		"/home/haltingpoint/projects/blog/db/schema.rb",
+		"/home/haltingpoint/projects/blog/app/models/post.rb",
+		"/home/haltingpoint/projects/todo/db/migrate/20140319072416_create_tasks.rb",
+		"/home/haltingpoint/projects/blog/app/controllers/posts_controller.rb",
+		"/home/haltingpoint/projects/blog/config/routes.rb",
+		"/home/haltingpoint/projects/todo/config/database.yml",
+		"/home/haltingpoint/.ssh/id_rsa.pub",
+		"/home/haltingpoint/projects/Simple-todo/Simple-todo/spec/controllers/tasks_controller_spec.rb",
+		"/home/haltingpoint/projects/Simple-todo/Simple-todo/.rspec",
+		"/home/haltingpoint/projects/Simple-todo/Simple-todo/Gemfile.lock",
+		"/home/haltingpoint/projects/blog/app/views/comments/_form.html.erb",
+		"/home/haltingpoint/projects/blog/app/views/comments/_comment.html.erb",
+		"/home/haltingpoint/projects/blog/app/views/posts/show.html.erb",
+		"/home/haltingpoint/projects/blog/app/controllers/comments_controller.rb",
+		"/home/haltingpoint/projects/blog/app/views/posts/_form.html.erb",
+		"/home/haltingpoint/projects/blog/app/views/posts/new.html.erb",
+		"/home/haltingpoint/projects/blog/app/models/comment.rb",
+		"/home/haltingpoint/projects/blog/app/views/posts/edit.html.erb",
+		"/home/haltingpoint/projects/blog/app/assets/stylesheets/comments.css.scss",
+		"/home/haltingpoint/projects/blog/db/migrate/20140317063217_create_comments.rb",
+		"/home/haltingpoint/projects/blog/app/views/posts/index.html.erb",
+		"/home/haltingpoint/projects/blog/test/fixtures/comments.yml",
+		"/home/haltingpoint/projects/blog/test/fixtures/posts.yml",
+		"/home/haltingpoint/projects/blog/db/migrate/20140309032825_create_posts.rb",
+		"/home/haltingpoint/projects/blog/app/views/layouts/application.html.erb",
+		"/home/haltingpoint/projects/blog/app/views/welcome/index.html.erb",
+		"/home/haltingpoint/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/haltingpoint/projects/blog/app/controllers/welcome_controller.rb",
+		"/home/haltingpoint/projects/testrails/config/routes.rb",
+		"/usr/share/applications/sublime.desktop"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"blogposts",
+				"blog/app/controllers/posts_controller.rb"
+			],
+			[
+				"todota",
+				"todo/app/controllers/tasks_controller.rb"
+			],
+			[
+				"blogrou",
+				"blog/config/routes.rb"
+			],
+			[
+				"todorou",
+				"todo/config/routes.rb"
+			],
+			[
+				"controllercomm",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"controllerpost",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"modelpost",
+				"app/models/post.rb"
+			],
+			[
+				"form",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"postsed",
+				"app/views/posts/edit.html.erb"
+			],
+			[
+				"postshow",
+				"app/views/posts/show.html.erb"
+			],
+			[
+				"model",
+				"app/models/post.rb"
+			],
+			[
+				"new.",
+				"app/views/posts/new.html.erb"
+			],
+			[
+				"postsnew",
+				"app/views/posts/new.html.erb"
+			],
+			[
+				"postsshow",
+				"app/views/posts/show.html.erb"
+			],
+			[
+				"postsindex",
+				"app/views/posts/index.html.erb"
+			],
+			[
+				"pstind",
+				"app/views/posts/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
